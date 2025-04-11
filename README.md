@@ -12,7 +12,7 @@ Todos os dados apresentados são fictícios e foram criados com fins exclusivame
   Análise visual sobre a composição do quadro de colaboradores considerando gênero, raça/cor, PCD, faixa etária, entre outros indicadores. O objetivo é trazer visibilidade para a diversidade organizacional e gerar insights para ações mais inclusivas.
 
   <p align="center">
-    <img src="./images/diversity_dashboard.png" alt="Dashboard de Diversidade" width="600"/>
+    <img src="./images/dashboard_diversidade.png" alt="Dashboard de Diversidade" width="600"/>
   </p>
 
 ---
@@ -31,3 +31,4 @@ Todos os dados apresentados são fictícios e foram criados com fins exclusivame
 Analista de Recursos Humanos com atuação em **People Analytics**, **planejamento estratégico** e **desenvolvimento de pessoas**. Apaixonado por dados, por transformar números em histórias e por apoiar decisões que valorizem as pessoas.
 
 📎 [LinkedIn](https://www.linkedin.com/in/dubovicki/)
+
