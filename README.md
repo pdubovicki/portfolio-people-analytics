@@ -12,7 +12,7 @@ Todos os dados apresentados são fictícios e foram criados com fins exclusivame
   Análise visual sobre a composição do quadro de colaboradores considerando gênero, raça/cor, PCD, faixa etária, entre outros indicadores. O objetivo é trazer visibilidade para a diversidade organizacional e gerar insights para ações mais inclusivas.
 
   <p align="center">
-    <img src="./images/diversidade_dashboard.png" alt="Dashboard de Diversidade" width="600"/>
+    <img src="./images/diversidade_image.png" alt="Dashboard de Diversidade" width="600"/>
   </p>
 
 ---
