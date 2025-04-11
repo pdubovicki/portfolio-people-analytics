@@ -15,13 +15,7 @@ Todos os dados apresentados são fictícios e foram criados com fins exclusivame
     <img src="./images/diversidade_image.png" alt="Dashboard de Diversidade" width="600"/>
   </p>
 
----
-
-## 📊 Dashboard Interativo
-
-Acesse a versão interativa do relatório de diversidade:
-
-🔗 [Visualizar no Power BI]([https://seu-link-aqui.com](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDM2MGZiYzYtZmY1Ny00N2E4LTg1MzQtMjg1MzZlZTdkMmM5IiwidCI6ImY2MGU0YzU5LTdmY2QtNGUwNC1hOTE3LTU4MTVmZjljNjgyYSJ9))
+👉 [Clique aqui para visualizar o dashboard no Power BI]((https://app.fabric.microsoft.com/view?r=eyJrIjoiMDM2MGZiYzYtZmY1Ny00N2E4LTg1MzQtMjg1MzZlZTdkMmM5IiwidCI6ImY2MGU0YzU5LTdmY2QtNGUwNC1hOTE3LTU4MTVmZjljNjgyYSJ9))
 
 ---
 
