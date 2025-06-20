@@ -21,6 +21,16 @@ Todos os dados apresentados são fictícios e foram criados com fins exclusivame
 
 👉 [Clique aqui para visualizar o dashboard no Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDM2MGZiYzYtZmY1Ny00N2E4LTg1MzQtMjg1MzZlZTdkMmM5IiwidCI6ImY2MGU0YzU5LTdmY2QtNGUwNC1hOTE3LTU4MTVmZjljNjgyYSJ9)
 
+- **🔎 Dashboard Geral de RH** 
+Análise visual dos principais indicadores relacionados à retenção, como tempo médio na empresa, taxa de turnover, e perfil dos colaboradores desligados.  
+  O objetivo é apoiar estratégias para redução da rotatividade e fortalecimento do engajamento.
+
+ <p align="center">
+    <img src="./images/quadro_image.png" alt="Dashboard de Diversidade" width="600"/>
+    <br />
+    <em>Exemplo dos principais KPIs do RH reunidos em um único painel.</em>
+  </p>
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
