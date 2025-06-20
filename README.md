@@ -26,7 +26,7 @@ Análise visual dos principais indicadores relacionados à retenção, como temp
   O objetivo é apoiar estratégias para redução da rotatividade e fortalecimento do engajamento.
 
  <p align="center">
-    <img src="./images/quadro_image.png" alt="Dashboard de Diversidade" width="600"/>
+    <img src="./images/image.png" alt="Dashboard de Diversidade" width="600"/>
     <br />
     <em>Exemplo dos principais KPIs do RH reunidos em um único painel.</em>
   </p>
